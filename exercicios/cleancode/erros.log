@@ -1,0 +1,11 @@
+Erro ao adicionar time:  - Nome inválido
+Erro ao criar partida: Brasil x Canadá - Time não existe
+Erro ao criar partida: Brasil x Argentina - Número inválido de gols
+Erro ao criar partida: Angola x Canadá - Time não existe
+Erro ao criar partida: Argentina x Nigéria - Time não existe
+Erro ao criar partida: Argentina x Canadá - Time não existe
+Erro ao cadastrar livro:  - título inválido
+Erro ao cadastrar usuário:  - nome inválido
+Erro ao emprestar livro: O Senhor dos Anéis para Bruno - Livro já emprestado
+Erro ao emprestar livro: Livro Fantasma para Alice - Livro não existe
+Erro ao devolver livro: Dom Quixote por Bruno - Livro não estava emprestado
